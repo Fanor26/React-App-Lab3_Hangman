@@ -13,7 +13,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### Sample [Desktop]
 
-![image](https://user-images.githubusercontent.com/107168452/173767508-3662156d-858c-46b7-b397-5554dedea2b9.png)
+![image](https://user-images.githubusercontent.com/87057752/173768892-daf67cbd-7b4d-446e-a297-b2b27899e1ee.png)
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
