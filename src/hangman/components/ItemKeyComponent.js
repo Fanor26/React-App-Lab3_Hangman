@@ -1,8 +1,4 @@
-
-
-
 import { useKeyBoard } from "../hooks/useKeyBoard";
-
 export const ItemKeyComponent = () => {
   const [keyState, setKeyState] = useKeyBoard();
   const handlerClick = (key) => {
@@ -30,4 +26,3 @@ export const ItemKeyComponent = () => {
     </>
   );
 };
-
